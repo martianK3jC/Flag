@@ -1,6 +1,6 @@
 # Flag
 This is a Philippine flag. This is made using CSS. I have to admit, the stars and the sun were made using ai (for efficiency). 
-See Flag here: https://martiank3jc.github.io/Flag/
+
 Mwehehehe :3  
 
 
